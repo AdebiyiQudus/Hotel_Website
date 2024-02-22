@@ -264,3 +264,22 @@ border-radius: 50%;
     padding: 20px;
 }
 
+@media (max-width: 500px) {
+ #main-footer {
+    margin-top: -10px;
+  }
+
+  #testimonials {
+    height: 900px;
+    background: url('../img/test-bg.jpg') no-repeat center center/cover;
+    padding-top: 100px;
+}
+
+
+}
+
+@media (max-height: 568px) {
+     #main-footer {
+     height: 20px;
+  }
+}
