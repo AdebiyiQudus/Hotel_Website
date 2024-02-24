@@ -1,5 +1,9 @@
 @media (max-width: 500px) {
- #main-footer {
+ #about-footer {
+  text-align: center;
+  background: #444;
+  color: #fff;
+   padding: 20px;
     margin-top: -10px;
   }
 
