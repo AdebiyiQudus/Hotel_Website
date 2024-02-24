@@ -180,7 +180,7 @@ overflow: hidden;
     
 }
 .box i {
-    margin-bottom: 1opx;
+    margin-bottom: 10px;
 }
 
 /* About Info */
@@ -257,7 +257,7 @@ border-radius: 50%;
 }
 
 /* Footer */
-#main-footer {
+#home-footer {
     text-align: center;
     background: #444;
     color: #fff;
