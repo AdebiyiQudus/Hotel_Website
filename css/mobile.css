@@ -62,6 +62,10 @@
   }
 }
 
+#features p {
+  width: 70px;
+}
+
 #home-footer {
   text-align: center;
   background: #444;
