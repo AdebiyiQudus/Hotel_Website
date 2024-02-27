@@ -80,6 +80,24 @@ p {
     background: #f7c08a;
     color: #333;
 }
+.bg-primary2 {
+    background: #f7c08a;
+    color: #333;
+    height: 140px;
+}
+
+.home-bg-light {
+    background: #f4f4f4;
+    color: #333;
+    
+  }
+  
+.home-bg-primary {
+    background: #f7c08a;
+    color: #333;
+  }
+
+
 
 .clr {
     clear: both;
@@ -242,6 +260,10 @@ border-radius: 50%;
     margin-bottom: 20px;
 }
 
+#contact-info .container .num { 
+    padding-right: -50px;
+  }
+
 #contact-form label {
     display: block;
     margin-bottom: 5px;
@@ -270,5 +292,20 @@ border-radius: 50%;
     background: #444;
     color: #fff;
     padding: 20px;
+    
 }
 
+#about-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
+    margin-top: -10px;
+  }
+
+  #contact-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
+}

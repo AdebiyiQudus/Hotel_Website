@@ -4,7 +4,7 @@
     background: #444;
     color: #fff;
     padding: 20px;
-    margin-top: -10px;
+    margin-top: -40px;
   }
 
   #testimonials {
@@ -12,6 +12,12 @@
     background: url("../img/test-bg.jpg") no-repeat center center/cover;
     padding-top: 100px;
   }
+
+  .bg-primary2 {
+    background: #f7c08a;
+    color: #333;
+    height: 270px;
+}
 
   /* Showcase */
   #showcase {
